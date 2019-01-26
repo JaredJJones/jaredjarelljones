@@ -1,4 +1,3 @@
 # jaredjarelljones
-Personal website with musings, etc
-
-Working on random stuff, my own style on a Bootstrap theme
+Personal/Resume Website
+Made some teaks on this premade Bootstrap template to cater to my needs: https://startbootstrap.com/template-overviews/business-casual/
